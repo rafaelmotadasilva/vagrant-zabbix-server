@@ -40,7 +40,7 @@ vagrant up
 ## Acesse o Zabbix via navegador:
 
 ```
-http://localhost
+http://IP-zabbix-server
 ```
 
 ## Faça login:
