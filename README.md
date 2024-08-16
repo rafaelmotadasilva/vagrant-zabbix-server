@@ -1,7 +1,6 @@
 <h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="vagrant-logo.png"></a>
-    <span> Criando uma máquina virtual pelo Vagrant com Zabbix Server</span>
+    <img align="center" width="40px" src="vagrant-logo.png" alt="Vagrant logo">
+    <span>Criando uma máquina virtual pelo Vagrant com Zabbix Server</span>
 </h1>
 
 Repositório desenvolvido para fins educativos.
